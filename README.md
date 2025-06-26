@@ -10,11 +10,10 @@ The repository contains cleaned data, reproducible code, a full analytical repor
 | Folder | Purpose |
 |--------|---------|
 | `data/` | Raw and cleaned datasets (`Crime report.xlsx`, `TN_Crime_Data_2014_2022.csv`). |
+| `figures/` | Publication-ready PNGs of all charts (line, stacked area, waterfall, heatmap, etc.). |
 | `notebooks/` | Jupyter notebooks for data preparation, exploratory analysis, and visualisation. |
 | `reports/` | Word/PDF deliverables: technical analysis report, executive summary. |
-| `dashboards/` | Interactive HTML dashboard and Power BI blueprint (`TN_Crime_Dashboard.html`, layout notes). |
-| `scripts/` | Stand-alone Python scripts used to generate charts and export report assets. |
-| `figures/` | Publication-ready PNGs of all charts (line, stacked area, waterfall, heatmap, etc.). |
+
 
 ---
 

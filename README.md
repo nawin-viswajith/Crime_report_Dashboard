@@ -47,7 +47,7 @@ The repository contains cleaned data, reproducible code, a full analytical repor
    * Pearson correlation matrix across categories.
 
 3. **Visual Dashboard**  
-   * Nine interactive Plotly figures assembled.  
+   * Nine interactive Plotly figures assembled into a two-column HTML dashboard.  
    * Pie-chart add-on for 2022 composition.  
    * Instructions and field mapping for a Power BI `.pbix` build.
 

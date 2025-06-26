@@ -87,6 +87,9 @@ If you prefer VS Code, simply open the notebook and run the cells.
 - **District-level drill-down:** supply FIR-level data in data/raw/, group by District, and replicate the aggregation cells.
 - **Alternate visualisations:** the notebook is modular—swap Plotly for Matplotlib or export to Tableau/Power BI as desired.
 
+## Disclaimer
+The Excel file is sourced from publicly available NCRB tables; redistributed here under fair-use for academic analysis.
+
 ## License
 This project is released under the MIT License.
 You are free to use, modify, and distribute the code and data with proper attribution.
